@@ -9,7 +9,7 @@ Keep track teachers salary
 
 step by step
 
-----------
+<hr>
 
 School contains
 
