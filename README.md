@@ -31,7 +31,7 @@ fees total
 
 OOP Concepts we will use 
 </pre>
-<p>Source I used: <a href="https://www.youtube.com/watch?v=e0X00EoFQbE" target="_blank">Building a School Management System - Rakshith Vasudev </a>
+<p>Source I used: Building a School Management System - Rakshith Vasudev </p>
 
 
   
